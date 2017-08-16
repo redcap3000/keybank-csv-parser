@@ -1,0 +1,14 @@
+{
+  "name": "keybankcvsanalytics",
+  "version": "1.0.0",
+  "description": "Parses cvs files provided from keybank to produce a list of transactions that have occured more than once and the total of those transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mz": "^2.6.0"
+  }
+}
